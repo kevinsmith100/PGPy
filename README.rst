@@ -12,6 +12,8 @@ PGPy: Pretty Good Privacy for Python
 .. image:: https://coveralls.io/repos/github/SecurityInnovation/PGPy/badge.svg?branch=master
     :target: https://coveralls.io/github/SecurityInnovation/PGPy?branch=master
     :alt: Coveralls
+    
+    <a href="https://snyk.io/test/github/kevinsmith100/pgpy"><img src="https://snyk.io/test/github/kevinsmith100/pgpy/badge.svg" alt="Known Vulnerabilities" data-canonical-src="https://snyk.io/test/github/kevinsmith100/pgpy" style="max-width:100%;"></a>
 
 Homepage: None yet.
 
